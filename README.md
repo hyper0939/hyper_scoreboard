@@ -1,4 +1,5 @@
 # hyper_scoreboard
+<img width="500" height="230" alt="Scoreboard" src="https://github.com/user-attachments/assets/32104fd4-db3c-4ca7-8e9c-d4c4324b08c5" />
 
 A modern, clean, and high-performance scoreboard script for FiveM with support for **ESX**, **QBCore**, and **Standalone**.
 
